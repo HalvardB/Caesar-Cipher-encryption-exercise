@@ -1,7 +1,5 @@
 package com.company;
 
-import edu.duke.*;
-
 public class CaesarCipher {
 
     // Find the shifted alphabet based on a key value.
